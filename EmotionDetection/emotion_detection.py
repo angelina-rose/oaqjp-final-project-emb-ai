@@ -26,9 +26,7 @@ def emotion_detector(text_to_analyze):
     emotion_scores['dominant_emotion']=dominant_emotion
     # Returning a dictionary containing analysis results
     return emotion_scores
-
-    
-    
+  
     
     
         
