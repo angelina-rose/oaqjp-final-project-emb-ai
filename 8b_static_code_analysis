@@ -1,0 +1,28 @@
+theia@theiadocker-angelinarj15:/home/project/final_project/oaqjp-fin
+al-project-emb-ai$ pylint server.py
+************* Module server
+server.py:2:49: C0303: Trailing whitespace (trailing-whitespace)
+server.py:13:36: C0303: Trailing whitespace (trailing-whitespace)
+server.py:16:0: C0303: Trailing whitespace (trailing-whitespace)
+server.py:18:48: C0303: Trailing whitespace (trailing-whitespace)
+server.py:19:9: C0303: Trailing whitespace (trailing-whitespace)
+server.py:21:0: C0301: Line too long (169/100) (line-too-long)
+server.py:22:30: C0303: Trailing whitespace (trailing-whitespace)
+server.py:23:32: C0303: Trailing whitespace (trailing-whitespace)
+server.py:24:29: C0303: Trailing whitespace (trailing-whitespace)
+server.py:25:28: C0303: Trailing whitespace (trailing-whitespace)
+server.py:26:32: C0303: Trailing whitespace (trailing-whitespace)
+server.py:29:0: C0303: Trailing whitespace (trailing-whitespace)
+server.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)
+server.py:17:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+server.py:21:15: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+server.py:31:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+theia@theiadocker-angelinarj15:/home/project/final_project/oaqjp-fin
+al-project-emb-ai$ pylint server.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 0.00/10, +10.00)
